@@ -1,1 +1,1 @@
-# imageAI---image-prediction
+# imageAI - image prediction

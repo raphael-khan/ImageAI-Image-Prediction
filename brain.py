@@ -1,9 +1,9 @@
-from imageai.Prediction import ImagePrediction
+from imageai.Classification import ImageClassification
 import os
 
 execution_path = os.getcwd()
 
-prediction = ImagePredcition()
+prediction = ImageClassification()
 prediction.setModelTypeAsMobileNetV2()
 prediction.setModelPath(os.path.join(execution_path, 'MobileNetV2'))
 prediction.loadModel()

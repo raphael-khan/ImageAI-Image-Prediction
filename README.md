@@ -1,4 +1,4 @@
-# ImageAI_image prediction
+# ImageAI_image prediction - Backend Only. 
 
 This project uses the imageAI libray in conjunction with a Machine Learning Model, mobileNetV2, to predict an image and the probability that prediction is accurate. Machine Learning model can be substitutes for a more trained model for greater accurary. 
 

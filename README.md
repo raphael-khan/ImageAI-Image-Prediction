@@ -6,7 +6,7 @@ Technologies used:
   * GitPod.
   * Tensorflow.
   * imageAI.
-  * numpy. 
+  * NumPy. 
   
   
 ![image](https://user-images.githubusercontent.com/89990638/160499362-1d31c4d3-0b52-44b5-8f17-c7666ec242ff.png)
